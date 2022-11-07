@@ -1,5 +1,5 @@
 ---
-Title: Blank Page
+title: Blank Page
 ---
 <!--
   This place is not a place of honor...
